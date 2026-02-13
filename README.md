@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an end to end data engineering project built entirely on **Databricks Free Edition** using built in sample data. The project follows the **Lakehouse architecture** and implements **Bronze, Silver, and Gold layers** using Delta tables, SQL, and PySpark.
+The repository contains an end to end data engineering project built entirely on **Databricks Free Edition** using built in sample data. The project follows the **Lakehouse architecture** and implements **Bronze, Silver, and Gold layers** using Delta tables, SQL, and PySpark.
 
 The goal is to demonstrate practical data engineering skills that are easy to review on GitHub and credible for technical interviews.
 
